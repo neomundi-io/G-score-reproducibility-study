@@ -1,0 +1,20 @@
+﻿{
+    "run_id":  "google_gemini-2.5-flash_weekly_baseline_d1_20260729T110913Z",
+    "wave_id":  "weekly_baseline_d1",
+    "provider":  "google",
+    "requested_model":  "gemini-2.5-flash",
+    "workflow":  "stream_then_govern_v3",
+    "panel_version":  "neomundi_weekly_barometer_panel_v1",
+    "temperature_mode":  "provider_default",
+    "temperature_requested":  null,
+    "top_p_requested":  null,
+    "seed_requested":  null,
+    "rows_saved":  400,
+    "successful_rows":  400,
+    "error_rows":  0,
+    "information_density_coverage":  1,
+    "llm_response_coverage":  1,
+    "audit_v3_coverage":  1,
+    "csv_file":  "C:\\Users\\Danielle\\Documents\\DATASET\\BAROMETRE\\BAROMETRE_7_3-08\\results\\google_gemini-2.5-flash_weekly_baseline_d1_20260729T110913Z_results.csv",
+    "jsonl_file":  "C:\\Users\\Danielle\\Documents\\DATASET\\BAROMETRE\\BAROMETRE_7_3-08\\results\\google_gemini-2.5-flash_weekly_baseline_d1_20260729T110913Z_results.jsonl"
+}
