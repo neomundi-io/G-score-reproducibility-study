@@ -1,0 +1,23 @@
+Modèle 1,Modèle 2,p-value (Holm),Cliff's delta,Amplitude
+openai_gpt-4o-2024-11-20,perplexity_sonar,3.592e-107,0.0906,négligeable
+deepseek_deepseek-chat,perplexity_sonar,1.199e-105,0.0900,négligeable
+perplexity_sonar,xai_grok-4,5.258e-105,-0.0900,négligeable
+google_gemini-2.5-flash,perplexity_sonar,3.111e-104,0.0894,négligeable
+anthropic_claude-sonnet-4-5-20250929,perplexity_sonar,2.248e-101,0.0882,négligeable
+mistral_mistral-large-latest,perplexity_sonar,2.399e-101,0.0882,négligeable
+infomaniak_mistralai_Mistral-Small-4-119B-2603,perplexity_sonar,5.267e-100,0.0877,négligeable
+perplexity_sonar,qwen_qwen-plus,1.492e-91,-0.0841,négligeable
+cohere_command-a-03-2025,perplexity_sonar,8.165e-84,0.0803,négligeable
+perplexity_sonar,together_meta-llama_Llama-3.3-70B-Instruct-Turbo,2.158e-77,-0.0776,négligeable
+infomaniak_swiss-ai_Apertus-70B-Instruct-2509,perplexity_sonar,1.825e-46,0.0611,négligeable
+infomaniak_swiss-ai_Apertus-70B-Instruct-2509,openai_gpt-4o-2024-11-20,1.767e-12,-0.0312,négligeable
+deepseek_deepseek-chat,infomaniak_swiss-ai_Apertus-70B-Instruct-2509,5.651e-12,0.0306,négligeable
+infomaniak_swiss-ai_Apertus-70B-Instruct-2509,xai_grok-4,6.653e-12,-0.0306,négligeable
+google_gemini-2.5-flash,infomaniak_swiss-ai_Apertus-70B-Instruct-2509,1.696e-11,0.0300,négligeable
+anthropic_claude-sonnet-4-5-20250929,infomaniak_swiss-ai_Apertus-70B-Instruct-2509,1.506e-10,0.0287,négligeable
+infomaniak_swiss-ai_Apertus-70B-Instruct-2509,mistral_mistral-large-latest,1.506e-10,-0.0287,négligeable
+infomaniak_mistralai_Mistral-Small-4-119B-2603,infomaniak_swiss-ai_Apertus-70B-Instruct-2509,4.169e-10,0.0281,négligeable
+infomaniak_swiss-ai_Apertus-70B-Instruct-2509,qwen_qwen-plus,1.628e-07,-0.0243,négligeable
+cohere_command-a-03-2025,infomaniak_swiss-ai_Apertus-70B-Instruct-2509,1.254e-05,0.0212,négligeable
+infomaniak_swiss-ai_Apertus-70B-Instruct-2509,together_meta-llama_Llama-3.3-70B-Instruct-Turbo,9.877e-04,-0.0176,négligeable
+openai_gpt-4o-2024-11-20,together_meta-llama_Llama-3.3-70B-Instruct-Turbo,3.781e-02,0.0138,négligeable
