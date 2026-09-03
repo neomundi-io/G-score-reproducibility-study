@@ -113,8 +113,10 @@ A sensitivity analysis was also performed on the different attempts available fo
 │
 └── report/               # LaTeX sources for the French and English reports
 ```
+**Note:** The `data/` folder is not included in this repository. To reproduce the analysis, place the raw data files in `data/raw/` and the consolidated dataset in `data/processed/`, following the structure shown above.
 
 Raw data may be kept in a separate environment when their redistribution is not authorized. In that case, the analysis code and the files required to reconstruct the dataset should remain documented.
+
 
 ---
 

@@ -111,6 +111,7 @@ Une analyse de sensibilité a également été réalisée sur les différentes t
 │
 └── report/               # sources LaTeX des rapports FR/EN
 ```
+**Remarque :** le dossier `data/` n'est pas inclus dans ce dépôt. Pour reproduire l'analyse, placez les fichiers de données brutes dans `data/raw/` et le dataset consolidé dans `data/processed/`, en suivant la structure indiquée ci-dessus.
 
 Les données brutes peuvent être conservées dans un espace séparé lorsque leur redistribution n'est pas autorisée. Dans ce cas, le code d'analyse et les fichiers nécessaires à la reconstruction du dataset doivent rester documentés.
 
