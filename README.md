@@ -1,16 +1,26 @@
-# NeoMundi — Mission : Reproducibility and Invariance of the G-score
+# NeoMundi — Mission 2: Exploratory Study of G-score Reproducibility and Invariance
+
+> **Study status — Exploratory empirical analysis**
+>
+> This repository documents an initial empirical characterization of the G-score based on **33,600 observations** across **12 models, 7 measurement campaigns, and 4 prompts**.
+>
+> The results should not be interpreted as definitive scientific validation or as evidence of general invariance. Broader validation will require substantially more prompts, additional campaigns, and independent replication.
+>
+> Raw data are not publicly included because they have not been fully de-identified. They, together with the complete reproducibility materials, may be made available upon controlled request and subject to an NDA.
 
 ## Overview
 
-This repository contains the data, analysis notebook, visualizations, and reports produced as part of **NeoMundi Mission 2**.
+This repository contains the analysis notebook, visualizations, and reports produced as part of **NeoMundi Mission 2**.
 
-The study focuses on the **reproducibility, stability, and invariance of the G-score** across different models, prompts, and measurement campaigns (barometers).
+The study investigates the **reproducibility, stability, and potential invariance of the G-score** across different models, prompts, repetitions, and measurement campaigns (barometers).
 
-The objective is not to demonstrate that the score is invariant, but to **test this hypothesis using the available data** and identify the conditions under which G-score behavior remains stable or changes.
+Its objective is not to demonstrate that the G-score is invariant, but to **empirically test this research hypothesis using the available data** and identify the conditions under which its behavior remains stable or changes.
+
+The findings constitute an initial characterization within the experimental conditions studied. They are intended to support further investigation, methodological refinement, and broader independent replication.
 
 ---
 
-## Research question
+## Research Question
 
 > **To what extent does the G-score exhibit stable and reproducible behavior when repetitions, models, prompts, and measurement campaigns vary?**
 
@@ -20,13 +30,14 @@ The study aims to:
 - assess the reproducibility of repeated runs of the same prompt;
 - measure variability between prompts and between models;
 - compare G-score levels across measurement campaigns;
-- characterize the break observed in **B5**;
-- examine the evolution of the score after B5, particularly in **B7 and B8**;
+- characterize the break observed during **B5**;
+- examine the evolution of the score after B5, particularly during **B7 and B8**;
 - investigate relationships between the G-score and available execution variables;
-- assess the robustness of the results to atypical observations;
-- evaluate the extent to which the results support or challenge the invariance hypothesis.
+- assess the robustness of the findings to atypical observations;
+- determine the extent to which the available results support or challenge the invariance hypothesis;
+- identify the methodological and experimental requirements for broader validation.
 
-The invariance hypothesis is therefore treated as a **research hypothesis to be evaluated**, rather than as an expected result.
+The invariance of the G-score is therefore treated as a **research hypothesis to be evaluated**, rather than as an established property or expected result.
 
 ---
 
